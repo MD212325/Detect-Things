@@ -1,0 +1,1 @@
+python main.py --source http://192.168.100.101:4747/video --prototxt https://raw.githubusercontent.com/MediosZ/MobileNet-SSD/master/mobilenet/MobileNetSSD_deploy.prototxt --model https://raw.githubusercontent.com/MediosZ/MobileNet-SSD/master/mobilenet/MobileNetSSD_deploy.caffemodel --confidence 0.5 --classes person
